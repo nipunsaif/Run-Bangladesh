@@ -1,9 +1,9 @@
 # Run Bangladesh: Beyond the Start Line
 
-# Project Idea: 
+## Project Idea: 
 Run Bangladesh: Beyond the Start Line is a comprehensive mobile app designed to streamline the management of running events, both for internal races hosted by Run Bangladesh and services provided to other event organizers. The app will enable users to register for marathons, half-marathons, and other running events while also providing tools for event organizers to manage participant data, schedules, registrations, and multimedia content like photos and videos. Features such as real-time race tracking, event result posting, and service bookings (like photography and videography) will ensure a seamless experience for both participants and event organizers.
 
-# Tools:
+## Tools:
 1. Frontend: React Native, Expo
 2. Backend: Node.js, Express.js
 3. Authentication: oAuth 2.0, Firebase Authentication 
