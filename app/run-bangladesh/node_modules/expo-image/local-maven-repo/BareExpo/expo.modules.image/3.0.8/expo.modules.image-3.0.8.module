@@ -1,0 +1,177 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "BareExpo",
+    "module": "expo.modules.image",
+    "version": "3.0.8",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.github.bumptech.glide",
+          "module": "glide",
+          "version": {
+            "requires": "4.16.0"
+          }
+        },
+        {
+          "group": "com.caverock",
+          "module": "androidsvg-aar",
+          "version": {
+            "requires": "1.4"
+          }
+        },
+        {
+          "group": "com.github.bumptech.glide",
+          "module": "okhttp3-integration",
+          "version": {
+            "requires": "4.11.0"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.9.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "expo.modules.image-3.0.8.aar",
+          "url": "expo.modules.image-3.0.8.aar",
+          "size": 302427,
+          "sha512": "18bbc2517baf9835e68b59f87dd38cc3fcbbdd9d89ba4032ae638b4ceb208833ba7304120b0159e58087d8c17e778a70ef2b35ae2c21406bb01f7432e4f4a908",
+          "sha256": "cca5db62ef093f7ed1cb2b530cce1a6657f6d5a8212235d2f4d89cd2a143aa73",
+          "sha1": "da5b719ababe24ce313383b751329f32d8701c85",
+          "md5": "53fc8f67d8d81d1ec0a21efada3a19fc"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk7",
+          "version": {
+            "requires": "2.1.20"
+          }
+        },
+        {
+          "group": "com.facebook.react",
+          "module": "react-android"
+        },
+        {
+          "group": "com.github.penfeizhou.android.animation",
+          "module": "glide-plugin",
+          "version": {
+            "requires": "3.0.5"
+          }
+        },
+        {
+          "group": "com.github.bumptech.glide",
+          "module": "avif-integration",
+          "version": {
+            "requires": "4.16.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.5.1"
+          }
+        },
+        {
+          "group": "jp.wasabeef",
+          "module": "glide-transformations",
+          "version": {
+            "requires": "4.3.0"
+          }
+        },
+        {
+          "group": "com.github.bumptech.glide",
+          "module": "glide",
+          "version": {
+            "requires": "4.16.0"
+          }
+        },
+        {
+          "group": "com.caverock",
+          "module": "androidsvg-aar",
+          "version": {
+            "requires": "1.4"
+          }
+        },
+        {
+          "group": "com.github.bumptech.glide",
+          "module": "okhttp3-integration",
+          "version": {
+            "requires": "4.11.0"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.9.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "expo.modules.image-3.0.8.aar",
+          "url": "expo.modules.image-3.0.8.aar",
+          "size": 302427,
+          "sha512": "18bbc2517baf9835e68b59f87dd38cc3fcbbdd9d89ba4032ae638b4ceb208833ba7304120b0159e58087d8c17e778a70ef2b35ae2c21406bb01f7432e4f4a908",
+          "sha256": "cca5db62ef093f7ed1cb2b530cce1a6657f6d5a8212235d2f4d89cd2a143aa73",
+          "sha1": "da5b719ababe24ce313383b751329f32d8701c85",
+          "md5": "53fc8f67d8d81d1ec0a21efada3a19fc"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "expo.modules.image-3.0.8-sources.jar",
+          "url": "expo.modules.image-3.0.8-sources.jar",
+          "size": 67708,
+          "sha512": "6ba108e160a551aa99d6400746bcf7dc36cbf2bea842126062d067c8190acd8986584100570c864223dff3ddbf03cb56a84f21fd44a7121d61262c7888cfd345",
+          "sha256": "ab15589a94ec3c1a0a3bec28f17e7a1f7ee72e8b533efe5a9a0dd4aeda5eecf2",
+          "sha1": "862d6d52c5f46322d4dfee9a1396dc33003322ee",
+          "md5": "0fa657f978c70aa3bb95b8b0a6c28e7a"
+        }
+      ]
+    }
+  ]
+}
