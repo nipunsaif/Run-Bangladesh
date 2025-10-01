@@ -12,3 +12,8 @@ Run Bangladesh: Run For Better Bangladesh is a comprehensive mobile app designed
 6. Cloud Storage: MinIO, AWS S3 (free tier)
 7. Deployment: Docker, 
 8. CI/CD: GitHub Actions 
+
+## Scrum Team
+1. Scrum Master: Saif
+2. Scrum Developers: Humayra, Rachona
+3. Product Owner: Run Bangladesh   
