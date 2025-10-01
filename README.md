@@ -15,5 +15,5 @@ Run Bangladesh: Run For Better Bangladesh is a comprehensive mobile app designed
 
 ## Scrum Team
 1. Scrum Master: Saif
-2. Scrum Developers: Humayra, Rachona
-3. Product Owner: Run Bangladesh   
+2. Developers: Humayra, Rachona
+3. Product Owner: Run Bangladesh
