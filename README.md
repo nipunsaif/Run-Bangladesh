@@ -1,19 +1,13 @@
 # Run Bangladesh - Run For Better Bangladesh
 
 ## Project Idea: 
-Run Bangladesh: Run For Better Bangladesh is a comprehensive mobile app designed to streamline the management of running events, both for internal races hosted by Run Bangladesh and services provided to other event organizers. The app will enable users to register for marathons, half-marathons, and other running events while also providing tools for event organizers to manage participant data, schedules, registrations, and multimedia content like photos and videos. Features such as real-time race tracking, event result posting, and service bookings (like photography and videography) will ensure a seamless experience for both participants and event organizers.
+Run Bangladesh — Run For Better Bangladesh is a full-stack mobile application designed to simplify marathon management in Bangladesh. It enables participants to register, make secure payments, track their runs in real time using GPS, and access multimedia updates, while providing organizers with tools to manage registrations, routes, leaderboards, payments, volunteers, and analytics through a modern dashboard — creating a seamless and engaging experience for all stakeholders.
 
-## Tools:
-1. Frontend: React Native, Expo
-2. Backend: Node.js, Express.js
-3. Authentication: oAuth 2.0, Firebase Authentication 
-4. Payment Integration: Stripe, Razorpay
-5. Real-Time Features: Socket.IO, Google Maps API
-6. Cloud Storage: MinIO, AWS S3 (free tier)
-7. Deployment: Docker, 
-8. CI/CD: GitHub Actions 
 
-## Scrum Team
-1. Scrum Master: Saif
-2. Developers: Humayra, Rachona
-3. Product Owner: Run Bangladesh
+## Team Information  
+
+| Name                   | Student ID   | Role                          | Email                         |
+|------------------------|--------------|-------------------------------|-------------------------------|
+| Saif Mohammed          | 2121913042   | Project Manager & Team Lead   | saif.mohammed@northsouth.edu  |
+| Humayra Rahman Nipa    | 2121128042   | Designer & Tester             | humayra.nipa@northsouth.edu   |
+| Sinthia Ahmed Rachona  | 2211916042   | Software Developer            | ahmed.rachona@northsouth.edu  |
