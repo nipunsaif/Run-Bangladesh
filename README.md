@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <text>"Run For Better bangladesh"</text>
+    <text>**Run For Better bangladesh**</text>
 </p>
 
 ## 📖 Project Overview
@@ -129,10 +129,3 @@ Follow these instructions to set up the project locally.
 
 -----
 
-## 🤝 Contributors
-
-\<a href="[https://github.com/nipunsaif/Run-Bangladesh/graphs/contributors](https://www.google.com/search?q=https://github.com/nipunsaif/Run-Bangladesh/graphs/contributors)"\>
-\<img src="[https://contrib.rocks/image?repo=nipunsaif/Run-Bangladesh](https://www.google.com/search?q=https://contrib.rocks/image%3Frepo%3Dnipunsaif/Run-Bangladesh)" /\>
-\</a\>
-
-Made with ❤️ by the Run Bangladesh Team.
