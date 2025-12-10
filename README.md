@@ -2,7 +2,7 @@
 # Run Bangladesh - Run for Better bangladesh
 
 <p align="center">
-  <img src="assets/images/run_bangladesh.jpg" alt="Run Bangladesh" width="400"/>
+  <img src="/mobile/run-bangladesh/assets/images/run_bangladesh.jpg" alt="Run Bangladesh" width="400"/>
 </p>
 
 ## 📖 Project Overview
