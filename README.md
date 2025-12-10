@@ -1,23 +1,9 @@
 
-# Run Bangladesh
+# Run Bangladesh - Run for Better bangladesh
 
-\<div align="center"\>
-
-\<img src="mobile/run-bangladesh/assets/images/run_bangladesh.jpg" width="150" height="150" style="border-radius: 20px;"\>
-
-\<br /\>
-
-**Simplifying Marathon Management in Bangladesh.**
-
-[](https://reactnative.dev/)
-[](https://nodejs.org/)
-[](https://www.mongodb.com/)
-[](https://stripe.com/)
-[](https://jestjs.io/)
-
-\</div\>
-
------
+<p align="center">
+  <img src="assets/images/run_bangladesh.jpg" alt="Run Bangladesh" width="400"/>
+</p>
 
 ## 📖 Project Overview
 
