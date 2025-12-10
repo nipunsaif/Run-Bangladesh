@@ -3,7 +3,7 @@
 
 \<div align="center"\>
 
-\<img src="https://github.com/nipunsaif/Run-Bangladesh/blob/main/mobile/run-bangladesh/assets/images/run_bangladesh.jpg" alt="Run Bangladesh Logo" width="150" height="150" style="border-radius: 20px;"\>
+\<img src="mobile/run-bangladesh/assets/images/run_bangladesh.jpg" width="150" height="150" style="border-radius: 20px;"\>
 
 \<br /\>
 
