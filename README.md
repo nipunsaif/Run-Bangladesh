@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <text>**Run For Better bangladesh**</text>
+    <text>Run For Better bangladesh</text>
 </p>
 
 ## 📖 Project Overview
