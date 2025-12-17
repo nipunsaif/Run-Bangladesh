@@ -17,11 +17,12 @@ It enables participants to register, make secure payments, track their runs in r
 
 ### ✨ Key Features
 
-  * **📍 Real-Time GPS Tracking:** Track runs accurately in real-time.
   * **💳 Secure Payments:** Integrated Stripe API for safe and easy registration payments.
   * **📝 Seamless Registration:** Quick sign-up process for marathon events.
   * **📊 Organizer Dashboard:** Tools for managing routes, leaderboards, volunteers, and analytics.
   * **🎥 Multimedia Updates:** Access photos and videos from the event.
+  * **📍 Static Event Location:** Visible event location accurately on th map.
+  * **👤 Volunteers Manaagement** Coodinates volunteers assigment for the events.
 
 -----
 
