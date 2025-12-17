@@ -22,7 +22,7 @@ It enables participants to register, make secure payments, track their runs in r
   * **📊 Organizer Dashboard:** Tools for managing routes, leaderboards, volunteers, and analytics.
   * **🎥 Multimedia Updates:** Access photos and videos from the event.
   * **📍 Static Event Location:** Visible event location accurately on th map.
-  * **👤 Volunteers Manaagement** Coodinates volunteers assigment for the events.
+  * **👤 Volunteers Manaagement:** Coodinates volunteers assigment for the events.
 
 -----
 
